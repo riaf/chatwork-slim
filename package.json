@@ -1,0 +1,24 @@
+{
+  "name": "chatwork-slim",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riaf/chatwork-slim.git"
+  },
+  "author": "Keisuke SATO <riaf@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riaf/chatwork-slim/issues"
+  },
+  "homepage": "https://github.com/riaf/chatwork-slim",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-sass": "~0.7.3",
+    "coffee-script": "~1.7.1"
+  }
+}
